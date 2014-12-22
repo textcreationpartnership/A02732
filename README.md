@@ -35,19 +35,53 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The arch's of triumph erected in honor of the high and mighty prince. Iames. the first of that name.
+
+1. TO THE RIGHT HONORABLE
+SIR THOMAS BENNET KNIGHT, LORD
+MAIOR OF THIS CITIE, THE RIGHT WORSIPfull
+the Aldermen his Brethren, and to those Worshipfull
+Commoners, elected Committies, for the Managing
+of this Businesse.
+
+1. Ode.
+
+1. Ode.
+
 #####Body#####
 
-1. The Italians Speech.
+1. The Deuice called Londinium.
 
-1. The same in English.
+1. The speeches of Gratulation.
 
-1. The speech of the Dutchmen.
+1. The Italians Pegme stood in Gracious-streete.
 
-1. The speech.
+    _ The Italians Speech.
+
+    _ The same in English.
+
+1. The Pegme of the Dutchmen.
+
+    _ The speech of the Dutchmen.
+
+1. The Deuice called,
+Noua foelix Arabia, The new Arabia foelix.
+
+1. The Deuice called,
+Hortus Euporiae, Garden of Plentie.
+
+    _ The speech.
+
+1. The Deuice called,
+Cozmoz Neoz, New World.
+
+1. The Deuice called,
+Templum Iani, Temple of Ianus.
+
+1. Lectori Candido.
 
 #####Back#####
-The arch's of triumph erected in honor of the high and mighty prince. Iames. the first of that name.
+Imprinted at London by Iohn Windet,
+Printer to the Honourable Citie of London, and are to be sold at
 **Types of content**
 
   * There are 350 **verse** lines!
